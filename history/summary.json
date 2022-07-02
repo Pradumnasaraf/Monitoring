@@ -4,19 +4,19 @@
     "url": "https://pradumnasaraf.co",
     "icon": "https://favicons.githubusercontent.com/pradumnasaraf.co",
     "slug": "personal-website",
-    "status": "down",
-    "uptime": "99.84%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.84%",
-    "time": 113,
-    "timeDay": 113,
-    "timeWeek": 113,
-    "timeMonth": 113,
-    "timeYear": 113,
+    "status": "up",
+    "uptime": "90.80%",
+    "uptimeDay": "90.80%",
+    "uptimeWeek": "90.80%",
+    "uptimeMonth": "90.80%",
+    "uptimeYear": "90.80%",
+    "time": 103,
+    "timeDay": 103,
+    "timeWeek": 103,
+    "timeMonth": 103,
+    "timeYear": 103,
     "dailyMinutesDown": {
-      "2022-07-02": 2
+      "2022-07-02": 129
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://opensource.pradumnasaraf.co",
     "icon": "https://favicons.githubusercontent.com/opensource.pradumnasaraf.co",
     "slug": "open-source-with-pradumna",
-    "status": "down",
-    "uptime": "99.89%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
-    "time": 108,
-    "timeDay": 108,
-    "timeWeek": 108,
-    "timeMonth": 108,
-    "timeYear": 108,
+    "status": "up",
+    "uptime": "90.84%",
+    "uptimeDay": "90.84%",
+    "uptimeWeek": "90.84%",
+    "uptimeMonth": "90.84%",
+    "uptimeYear": "90.84%",
+    "time": 117,
+    "timeDay": 117,
+    "timeWeek": 117,
+    "timeMonth": 117,
+    "timeYear": 117,
     "dailyMinutesDown": {
-      "2022-07-02": 1
+      "2022-07-02": 128
     }
   },
   {
