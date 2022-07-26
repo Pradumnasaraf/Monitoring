@@ -26,9 +26,9 @@
     "url": "https://opensource.pradumnasaraf.co",
     "icon": "https://favicons.githubusercontent.com/opensource.pradumnasaraf.co",
     "slug": "open-source-with-pradumna",
-    "status": "up",
+    "status": "down",
     "uptime": "99.65%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.65%",
     "uptimeYear": "99.65%",
@@ -38,6 +38,7 @@
     "timeMonth": 473,
     "timeYear": 473,
     "dailyMinutesDown": {
+      "2022-07-26": 0,
       "2022-07-02": 128
     }
   },
