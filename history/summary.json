@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/pradumnasaraf.co",
     "slug": "personal-website",
     "status": "up",
-    "uptime": "99.58%",
+    "uptime": "99.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.66%",
-    "uptimeMonth": "99.58%",
-    "uptimeYear": "99.58%",
+    "uptimeMonth": "99.59%",
+    "uptimeYear": "99.59%",
     "time": 345,
     "timeDay": 324,
     "timeWeek": 196,
@@ -27,13 +27,13 @@
     "icon": "https://favicons.githubusercontent.com/opensource.pradumnasaraf.co",
     "slug": "open-source-with-pradumna",
     "status": "up",
-    "uptime": "99.62%",
-    "uptimeDay": "98.70%",
+    "uptime": "99.63%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.62%",
-    "uptimeYear": "99.62%",
+    "uptimeMonth": "99.63%",
+    "uptimeYear": "99.63%",
     "time": 599,
-    "timeDay": 215,
+    "timeDay": 269,
     "timeWeek": 685,
     "timeMonth": 599,
     "timeYear": 599,
@@ -47,7 +47,7 @@
     "url": "https://opensourceapi.vercel.app/",
     "icon": "https://favicons.githubusercontent.com/opensourceapi.vercel.app",
     "slug": "open-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -58,6 +58,8 @@
     "timeWeek": 928,
     "timeMonth": 900,
     "timeYear": 900,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-28": 0
+    }
   }
 ]
