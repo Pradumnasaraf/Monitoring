@@ -6,9 +6,9 @@ sites:
   - name: Personal Website
     url: https://pradumnasaraf.co
   - name: Open Source With Pradumna
-    url: https://opensource.pradumnasaraf.co
+    url: https://oswp.study
   - name: Open API
-    url: https://opensourceapi.vercel.app/
+    url: https://opensourceapi.vercel.app
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
