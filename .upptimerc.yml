@@ -4,7 +4,9 @@ repo: Monitoring # The name of this repository
 
 sites:
   - name: Personal Website
-    url: https://pradumnasaraf.co
+    url: https://pradumnasaraf.dev
+  - name: Personal Blog
+    url: https://blog.pradumnasaraf.dev  
   - name: Open Source With Pradumna
     url: https://oswp.study
   - name: Open API
