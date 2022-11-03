@@ -1,6 +1,6 @@
 # [📈 Live Status](https://Pradumnasaraf.github.io/Monitoring): <!--live status--> **🟩 All systems operational**
 
-This repository contains the open-source uptime monitor and status page for [Pradumna Saraf](pradumnasaraf.co), powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains the open-source uptime monitor and status page for [Pradumna Saraf](https://www.pradumnasaraf.dev), powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/Pradumnasaraf/Monitoring/workflows/Uptime%20CI/badge.svg)](https://github.com/Pradumnasaraf/Monitoring/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/Pradumnasaraf/Monitoring/workflows/Response%20Time%20CI/badge.svg)](https://github.com/Pradumnasaraf/Monitoring/actions?query=workflow%3A%22Response+Time+CI%22)
@@ -28,5 +28,5 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 ## 📄 License
 
 - Powered by: [Upptime](https://github.com/upptime/upptime)
-- Code: [MIT](./LICENSE) © [Pradumna Saraf](pradumnasaraf.co)
+- Code: [MIT](./LICENSE) © [Pradumna Saraf](https://www.pradumnasaraf.dev)
 - Data in the `./history` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
