@@ -11,6 +11,12 @@ sites:
     url: https://oswp.study
   - name: Open API
     url: https://opensourceapi.vercel.app
+  - name: Candy Go Package
+    url: https://pkg.go.dev/github.com/Pradumnasaraf/candy
+  - name: LinkFree CLI docs
+    url: https://linkfree.io/docs/environments/linkfree-cli
+  - name: LinkFree CLI docs
+    url: https://linkfree.io/docs/environments/linkfree-cli
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
