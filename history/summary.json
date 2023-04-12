@@ -111,19 +111,19 @@
     "url": "https://linkfree.io/docs/environments/linkfree-cli",
     "icon": "https://icons.duckduckgo.com/ip3/linkfree.io.ico",
     "slug": "link-free-cli-docs",
-    "status": "down",
-    "uptime": "99.71%",
-    "uptimeDay": "97.50%",
-    "uptimeWeek": "99.64%",
-    "uptimeMonth": "99.71%",
-    "uptimeYear": "99.71%",
-    "time": 979,
-    "timeDay": 2758,
-    "timeWeek": 1228,
-    "timeMonth": 979,
-    "timeYear": 979,
+    "status": "up",
+    "uptime": "99.56%",
+    "uptimeDay": "96.15%",
+    "uptimeWeek": "99.45%",
+    "uptimeMonth": "99.56%",
+    "uptimeYear": "99.56%",
+    "time": 2323,
+    "timeDay": 7016,
+    "timeWeek": 3084,
+    "timeMonth": 2323,
+    "timeYear": 2323,
     "dailyMinutesDown": {
-      "2023-04-12": 36
+      "2023-04-12": 56
     }
   }
 ]
