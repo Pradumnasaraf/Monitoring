@@ -93,19 +93,19 @@
     "url": "https://pkg.go.dev/github.com/Pradumnasaraf/candy",
     "icon": "https://icons.duckduckgo.com/ip3/pkg.go.dev.ico",
     "slug": "candy-go-package",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 161,
-    "timeDay": 110,
-    "timeWeek": 133,
-    "timeMonth": 156,
-    "timeYear": 161,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.10%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 162,
+    "timeDay": 142,
+    "timeWeek": 141,
+    "timeMonth": 157,
+    "timeYear": 162,
     "dailyMinutesDown": {
-      "2023-05-25": 0
+      "2023-05-25": 13
     }
   },
   {
