@@ -75,19 +75,19 @@
     "url": "https://opensourceapi.vercel.app",
     "icon": "https://icons.duckduckgo.com/ip3/opensourceapi.vercel.app.ico",
     "slug": "open-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1274,
-    "timeDay": 3089,
-    "timeWeek": 2213,
-    "timeMonth": 1698,
-    "timeYear": 1274,
+    "time": 1288,
+    "timeDay": 3891,
+    "timeWeek": 2622,
+    "timeMonth": 1834,
+    "timeYear": 1288,
     "dailyMinutesDown": {
-      "2023-06-13": 6
+      "2023-06-13": 0
     }
   },
   {
