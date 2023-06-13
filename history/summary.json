@@ -75,18 +75,20 @@
     "url": "https://opensourceapi.vercel.app",
     "icon": "https://icons.duckduckgo.com/ip3/opensourceapi.vercel.app.ico",
     "slug": "open-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1255,
-    "timeDay": 166,
-    "timeWeek": 1545,
-    "timeMonth": 1514,
-    "timeYear": 1255,
-    "dailyMinutesDown": {}
+    "time": 1274,
+    "timeDay": 3970,
+    "timeWeek": 2324,
+    "timeMonth": 1710,
+    "timeYear": 1274,
+    "dailyMinutesDown": {
+      "2023-06-13": 0
+    }
   },
   {
     "name": "Candy Go Package",
