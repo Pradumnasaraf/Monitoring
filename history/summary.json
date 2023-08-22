@@ -102,18 +102,20 @@
     "url": "https://pkg.go.dev/github.com/Pradumnasaraf/candy",
     "icon": "https://icons.duckduckgo.com/ip3/pkg.go.dev.ico",
     "slug": "candy-go-package",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 163,
-    "timeDay": 126,
-    "timeWeek": 144,
-    "timeMonth": 149,
-    "timeYear": 163,
-    "dailyMinutesDown": {}
+    "time": 171,
+    "timeDay": 756,
+    "timeWeek": 299,
+    "timeMonth": 188,
+    "timeYear": 171,
+    "dailyMinutesDown": {
+      "2023-08-22": 0
+    }
   },
   {
     "name": "LinkFree CLI docs",
