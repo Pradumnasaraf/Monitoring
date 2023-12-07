@@ -116,19 +116,19 @@
     "url": "https://linkfree.io/docs/environments/biodrop-cli",
     "icon": "https://icons.duckduckgo.com/ip3/linkfree.io.ico",
     "slug": "bio-drop-cli-docs",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 350,
-    "timeDay": 287,
-    "timeWeek": 402,
-    "timeMonth": 353,
-    "timeYear": 350,
+    "time": 347,
+    "timeDay": 189,
+    "timeWeek": 363,
+    "timeMonth": 345,
+    "timeYear": 347,
     "dailyMinutesDown": {
-      "2023-12-07": 0
+      "2023-12-07": 6
     }
   }
 ]
