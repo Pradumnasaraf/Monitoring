@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 142,
-    "timeDay": 69,
-    "timeWeek": 109,
-    "timeMonth": 104,
-    "timeYear": 128,
+    "timeDay": 256,
+    "timeWeek": 131,
+    "timeMonth": 107,
+    "timeYear": 129,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
-    "time": 553,
-    "timeDay": 170,
-    "timeWeek": 237,
-    "timeMonth": 516,
-    "timeYear": 557,
+    "time": 552,
+    "timeDay": 245,
+    "timeWeek": 209,
+    "timeMonth": 504,
+    "timeYear": 556,
     "dailyMinutesDown": {
       "2023-11-20": 25
     }
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 139,
-    "timeDay": 69,
-    "timeWeek": 137,
-    "timeMonth": 115,
+    "timeDay": 175,
+    "timeWeek": 145,
+    "timeMonth": 118,
     "timeYear": 139,
     "dailyMinutesDown": {}
   },
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 119,
-    "timeDay": 85,
-    "timeWeek": 87,
-    "timeMonth": 84,
-    "timeYear": 119,
+    "time": 120,
+    "timeDay": 158,
+    "timeWeek": 97,
+    "timeMonth": 87,
+    "timeYear": 120,
     "dailyMinutesDown": {}
   },
   {
@@ -84,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1395,
-    "timeDay": 1620,
-    "timeWeek": 1533,
-    "timeMonth": 1706,
-    "timeYear": 1466,
+    "time": 1397,
+    "timeDay": 2107,
+    "timeWeek": 1803,
+    "timeMonth": 1719,
+    "timeYear": 1468,
     "dailyMinutesDown": {
       "2023-06-13": 85
     }
@@ -105,9 +105,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 178,
-    "timeDay": 120,
-    "timeWeek": 140,
-    "timeMonth": 144,
+    "timeDay": 247,
+    "timeWeek": 165,
+    "timeMonth": 134,
     "timeYear": 178,
     "dailyMinutesDown": {}
   },
@@ -118,17 +118,15 @@
     "slug": "bio-drop-cli-docs",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 347,
-    "timeDay": 189,
-    "timeWeek": 363,
-    "timeMonth": 345,
-    "timeYear": 347,
-    "dailyMinutesDown": {
-      "2023-12-07": 6
-    }
+    "time": 345,
+    "timeDay": 144,
+    "timeWeek": 352,
+    "timeMonth": 339,
+    "timeYear": 345,
+    "dailyMinutesDown": {}
   }
 ]
