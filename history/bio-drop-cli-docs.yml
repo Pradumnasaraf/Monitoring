@@ -1,7 +1,7 @@
 url: https://linkfree.io/docs/environments/biodrop-cli
-status: up
-code: 200
-responseTime: 454
-lastUpdated: 2024-01-16T23:17:03.271Z
+status: down
+code: 500
+responseTime: 153
+lastUpdated: 2024-01-17T21:44:22.070Z
 startTime: 2023-09-11T11:18:48.978Z
 generator: Upptime <https://github.com/upptime/upptime>
