@@ -22,18 +22,19 @@
     "url": "https://blog.pradumnasaraf.dev",
     "icon": "https://icons.duckduckgo.com/ip3/blog.pradumnasaraf.dev.ico",
     "slug": "personal-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 526,
-    "timeDay": 516,
-    "timeWeek": 303,
-    "timeMonth": 273,
+    "timeDay": 548,
+    "timeWeek": 338,
+    "timeMonth": 282,
     "timeYear": 505,
     "dailyMinutesDown": {
+      "2024-01-17": 0,
       "2023-11-20": 25
     }
   },
@@ -78,18 +79,19 @@
     "url": "https://opensourceapi.vercel.app",
     "icon": "https://icons.duckduckgo.com/ip3/opensourceapi.vercel.app.ico",
     "slug": "open-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1445,
-    "timeDay": 1877,
-    "timeWeek": 1625,
-    "timeMonth": 1747,
-    "timeYear": 1499,
+    "timeDay": 1510,
+    "timeWeek": 1564,
+    "timeMonth": 1729,
+    "timeYear": 1498,
     "dailyMinutesDown": {
+      "2024-01-17": 0,
       "2023-06-13": 85
     }
   },
@@ -116,17 +118,19 @@
     "url": "https://linkfree.io/docs/environments/biodrop-cli",
     "icon": "https://icons.duckduckgo.com/ip3/linkfree.io.ico",
     "slug": "bio-drop-cli-docs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 370,
-    "timeDay": 454,
-    "timeWeek": 304,
-    "timeMonth": 466,
-    "timeYear": 370,
-    "dailyMinutesDown": {}
+    "time": 369,
+    "timeDay": 304,
+    "timeWeek": 285,
+    "timeMonth": 456,
+    "timeYear": 369,
+    "dailyMinutesDown": {
+      "2024-01-17": 0
+    }
   }
 ]
