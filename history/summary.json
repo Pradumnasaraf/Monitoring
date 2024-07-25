@@ -43,9 +43,9 @@
     "url": "https://os.pradumnasaraf.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/os.pradumnasaraf.dev.ico",
     "slug": "open-source-with-pradumna-repo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -54,7 +54,9 @@
     "timeWeek": 164,
     "timeMonth": 143,
     "timeYear": 143,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-25": 0
+    }
   },
   {
     "name": "DevOps Repo",
