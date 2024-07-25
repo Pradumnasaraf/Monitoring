@@ -1,25 +1,23 @@
-# Change these first
-owner: Pradumnasaraf # Your GitHub organization or username, where this repository lives
-repo: Monitoring # The name of this repository
+owner: Pradumnasaraf 
+repo: Monitoring 
 
 sites:
-  - name: Personal Website
+  - name: Personal
     url: https://pradumnasaraf.dev
-  - name: Personal Blog
+  - name: Hashnode Blog
     url: https://blog.pradumnasaraf.dev  
-  - name: Open Source With Pradumna Repo
-    url: https://os.pradumnasaraf.dev/
-  - name: DevOps Repo
-    url: https://devops.pradumnasaraf.dev/
+  - name: Open Source With Pradumna
+    url: https://os.pradumnasaraf.dev
+  - name: DevOps 
+    url: https://devops.pradumnasaraf.dev
   - name: Open API
     url: https://opensourceapi.vercel.app
   - name: Candy Go Package
     url: https://pkg.go.dev/github.com/Pradumnasaraf/candy
-
+  - name: GenCLI Go Package
+    url: https://pkg.go.dev/github.com/Pradumnasaraf/gencli
+    
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: demo.upptime.js.org
   baseUrl: /Monitoring
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Pradumna's Monitoring page
@@ -32,6 +30,3 @@ status-website:
       href: https://github.com/$OWNER/$REPO
     - title: Twitter
       href: https://twitter.com/pradumna_saraf
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
