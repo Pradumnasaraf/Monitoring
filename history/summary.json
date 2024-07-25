@@ -43,19 +43,19 @@
     "url": "https://os.pradumnasaraf.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/os.pradumnasaraf.dev.ico",
     "slug": "open-source-with-pradumna-repo",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 143,
-    "timeDay": 131,
-    "timeWeek": 164,
-    "timeMonth": 143,
-    "timeYear": 143,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "95.46%",
+    "uptimeWeek": "99.35%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.99%",
+    "time": 144,
+    "timeDay": 187,
+    "timeWeek": 174,
+    "timeMonth": 146,
+    "timeYear": 144,
     "dailyMinutesDown": {
-      "2024-07-25": 0
+      "2024-07-25": 65
     }
   },
   {
