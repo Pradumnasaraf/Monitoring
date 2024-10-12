@@ -10,12 +10,18 @@ sites:
     url: https://os.pradumnasaraf.dev
   - name: DevOps 
     url: https://devops.pradumnasaraf.dev
+  - name: Snippets 
+    url: https://snippets.pradumnasaraf.dev
+  - name: Photos 
+    url: https://photos.pradumnasaraf.dev
   - name: Open API
     url: https://opensourceapi.vercel.app
   - name: Candy Go Package
     url: https://pkg.go.dev/github.com/Pradumnasaraf/candy
   - name: GenCLI Go Package
     url: https://pkg.go.dev/github.com/Pradumnasaraf/gencli
+  - name: BioLink
+    url: https://links.pradumnasaraf.dev
     
 status-website:
   baseUrl: /Monitoring
