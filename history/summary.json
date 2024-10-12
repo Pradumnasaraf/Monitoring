@@ -10,11 +10,11 @@
     "uptimeWeek": "99.48%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.95%",
-    "time": 159,
-    "timeDay": 123,
-    "timeWeek": 144,
-    "timeMonth": 171,
-    "timeYear": 159,
+    "time": 160,
+    "timeDay": 154,
+    "timeWeek": 152,
+    "timeMonth": 173,
+    "timeYear": 160,
     "dailyMinutesDown": {
       "2024-10-12": 53
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "99.23%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.93%",
-    "time": 334,
-    "timeDay": 186,
-    "timeWeek": 291,
-    "timeMonth": 342,
-    "timeYear": 334,
+    "time": 332,
+    "timeDay": 180,
+    "timeWeek": 278,
+    "timeMonth": 336,
+    "timeYear": 332,
     "dailyMinutesDown": {
       "2024-10-12": 78
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "99.33%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.94%",
-    "time": 267,
-    "timeDay": 140,
-    "timeWeek": 159,
-    "timeMonth": 164,
-    "timeYear": 153,
+    "time": 263,
+    "timeDay": 124,
+    "timeWeek": 152,
+    "timeMonth": 161,
+    "timeYear": 152,
     "dailyMinutesDown": {
       "2024-10-12": 68
     }
@@ -70,14 +70,50 @@
     "uptimeWeek": "99.23%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.93%",
-    "time": 141,
-    "timeDay": 87,
-    "timeWeek": 163,
-    "timeMonth": 144,
-    "timeYear": 141,
+    "time": 142,
+    "timeDay": 126,
+    "timeWeek": 168,
+    "timeMonth": 146,
+    "timeYear": 142,
     "dailyMinutesDown": {
       "2024-10-12": 78
     }
+  },
+  {
+    "name": "Snippets",
+    "url": "https://snippets.pradumnasaraf.dev",
+    "icon": "https://icons.duckduckgo.com/ip3/snippets.pradumnasaraf.dev.ico",
+    "slug": "snippets",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 158,
+    "timeDay": 158,
+    "timeWeek": 158,
+    "timeMonth": 158,
+    "timeYear": 158,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Photos",
+    "url": "https://photos.pradumnasaraf.dev",
+    "icon": "https://icons.duckduckgo.com/ip3/photos.pradumnasaraf.dev.ico",
+    "slug": "photos",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 316,
+    "timeDay": 316,
+    "timeWeek": 316,
+    "timeMonth": 316,
+    "timeYear": 316,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Open API",
@@ -90,11 +126,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1354,
-    "timeDay": 168,
-    "timeWeek": 1003,
-    "timeMonth": 1086,
-    "timeYear": 1311,
+    "time": 1351,
+    "timeDay": 214,
+    "timeWeek": 910,
+    "timeMonth": 1059,
+    "timeYear": 1308,
     "dailyMinutesDown": {
       "2024-01-17": 26
     }
@@ -111,9 +147,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 175,
-    "timeDay": 137,
-    "timeWeek": 220,
-    "timeMonth": 208,
+    "timeDay": 149,
+    "timeWeek": 213,
+    "timeMonth": 207,
     "timeYear": 175,
     "dailyMinutesDown": {}
   },
@@ -129,10 +165,28 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 97,
-    "timeDay": 59,
-    "timeWeek": 97,
+    "timeDay": 73,
+    "timeWeek": 96,
     "timeMonth": 112,
     "timeYear": 97,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "BioLink",
+    "url": "https://links.pradumnasaraf.dev",
+    "icon": "https://icons.duckduckgo.com/ip3/links.pradumnasaraf.dev.ico",
+    "slug": "bio-link",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 155,
+    "timeDay": 155,
+    "timeWeek": 155,
+    "timeMonth": 155,
+    "timeYear": 155,
     "dailyMinutesDown": {}
   }
 ]
