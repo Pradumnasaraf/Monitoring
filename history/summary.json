@@ -24,9 +24,9 @@
     "url": "https://blog.pradumnasaraf.dev",
     "icon": "https://icons.duckduckgo.com/ip3/blog.pradumnasaraf.dev.ico",
     "slug": "hashnode-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.94%",
@@ -36,6 +36,7 @@
     "timeMonth": 337,
     "timeYear": 340,
     "dailyMinutesDown": {
+      "2024-10-22": 0,
       "2024-10-12": 78
     }
   },
@@ -120,9 +121,9 @@
     "url": "https://opensourceapi.vercel.app",
     "icon": "https://icons.duckduckgo.com/ip3/opensourceapi.vercel.app.ico",
     "slug": "open-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -132,6 +133,7 @@
     "timeMonth": 1068,
     "timeYear": 1286,
     "dailyMinutesDown": {
+      "2024-10-22": 0,
       "2024-01-17": 26
     }
   },
