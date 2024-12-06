@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 169,
-    "timeDay": 174,
-    "timeWeek": 219,
-    "timeMonth": 179,
-    "timeYear": 169,
+    "time": 170,
+    "timeDay": 257,
+    "timeWeek": 233,
+    "timeMonth": 180,
+    "timeYear": 170,
     "dailyMinutesDown": {
       "2024-10-12": 53
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
-    "time": 325,
-    "timeDay": 132,
-    "timeWeek": 249,
-    "timeMonth": 306,
-    "timeYear": 325,
+    "time": 326,
+    "timeDay": 447,
+    "timeWeek": 272,
+    "timeMonth": 315,
+    "timeYear": 326,
     "dailyMinutesDown": {
       "2024-10-22": 18,
       "2024-10-12": 78
@@ -52,8 +52,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 257,
-    "timeDay": 145,
-    "timeWeek": 155,
+    "timeDay": 142,
+    "timeWeek": 159,
     "timeMonth": 164,
     "timeYear": 157,
     "dailyMinutesDown": {
@@ -72,9 +72,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 155,
-    "timeDay": 191,
-    "timeWeek": 174,
-    "timeMonth": 177,
+    "timeDay": 206,
+    "timeWeek": 185,
+    "timeMonth": 178,
     "timeYear": 155,
     "dailyMinutesDown": {
       "2024-10-12": 78
@@ -91,11 +91,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 167,
-    "timeDay": 286,
-    "timeWeek": 182,
-    "timeMonth": 181,
-    "timeYear": 167,
+    "time": 168,
+    "timeDay": 227,
+    "timeWeek": 191,
+    "timeMonth": 184,
+    "timeYear": 168,
     "dailyMinutesDown": {}
   },
   {
@@ -109,11 +109,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 158,
-    "timeDay": 158,
-    "timeWeek": 130,
-    "timeMonth": 148,
-    "timeYear": 158,
+    "time": 157,
+    "timeDay": 89,
+    "timeWeek": 127,
+    "timeMonth": 146,
+    "timeYear": 157,
     "dailyMinutesDown": {}
   },
   {
@@ -127,11 +127,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1265,
+    "time": 1264,
     "timeDay": 1274,
-    "timeWeek": 1219,
-    "timeMonth": 1004,
-    "timeYear": 1193,
+    "timeWeek": 1229,
+    "timeMonth": 1040,
+    "timeYear": 1191,
     "dailyMinutesDown": {
       "2024-10-22": 18,
       "2024-01-17": 26
@@ -144,18 +144,16 @@
     "slug": "candy-go-package",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 178,
-    "timeDay": 165,
-    "timeWeek": 194,
-    "timeMonth": 203,
-    "timeYear": 174,
-    "dailyMinutesDown": {
-      "2024-12-05": 11
-    }
+    "time": 179,
+    "timeDay": 235,
+    "timeWeek": 206,
+    "timeMonth": 209,
+    "timeYear": 175,
+    "dailyMinutesDown": {}
   },
   {
     "name": "GenCLI Go Package",
@@ -168,11 +166,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 94,
-    "timeDay": 71,
-    "timeWeek": 89,
-    "timeMonth": 93,
-    "timeYear": 94,
+    "time": 96,
+    "timeDay": 414,
+    "timeWeek": 135,
+    "timeMonth": 104,
+    "timeYear": 96,
     "dailyMinutesDown": {}
   },
   {
@@ -186,11 +184,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 173,
-    "timeDay": 286,
+    "time": 172,
+    "timeDay": 156,
     "timeWeek": 203,
-    "timeMonth": 177,
-    "timeYear": 173,
+    "timeMonth": 175,
+    "timeYear": 172,
     "dailyMinutesDown": {}
   }
 ]
