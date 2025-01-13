@@ -5,18 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/pradumnasaraf.dev.ico",
     "slug": "personal",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.98%",
     "time": 169,
     "timeDay": 237,
     "timeWeek": 156,
     "timeMonth": 161,
     "timeYear": 169,
     "dailyMinutesDown": {
-      "2025-01-13": 12,
       "2024-10-12": 53
     }
   },
@@ -105,9 +104,9 @@
     "url": "https://photos.pradumnasaraf.dev",
     "icon": "https://icons.duckduckgo.com/ip3/photos.pradumnasaraf.dev.ico",
     "slug": "photos",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -116,7 +115,9 @@
     "timeWeek": 166,
     "timeMonth": 153,
     "timeYear": 158,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-13": 0
+    }
   },
   {
     "name": "Open API",
