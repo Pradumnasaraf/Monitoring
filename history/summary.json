@@ -4,9 +4,9 @@
     "url": "https://pradumnasaraf.dev",
     "icon": "https://icons.duckduckgo.com/ip3/pradumnasaraf.dev.ico",
     "slug": "personal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -16,6 +16,7 @@
     "timeMonth": 160,
     "timeYear": 169,
     "dailyMinutesDown": {
+      "2025-01-13": 0,
       "2024-10-12": 53
     }
   },
@@ -47,7 +48,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/os.pradumnasaraf.dev.ico",
     "slug": "open-source-with-pradumna",
     "status": "up",
-    "uptime": "99.84%",
+    "uptime": "99.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
