@@ -124,19 +124,19 @@
     "url": "https://pkg.go.dev/github.com/Pradumnasaraf/candy",
     "icon": "https://icons.duckduckgo.com/ip3/pkg.go.dev.ico",
     "slug": "candy-go-package",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.42%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 178,
-    "timeDay": 181,
-    "timeWeek": 169,
-    "timeMonth": 167,
+    "timeDay": 149,
+    "timeWeek": 163,
+    "timeMonth": 166,
     "timeYear": 176,
     "dailyMinutesDown": {
-      "2025-01-29": 1
+      "2025-01-29": 8
     }
   },
   {
@@ -144,19 +144,19 @@
     "url": "https://pkg.go.dev/github.com/Pradumnasaraf/gencli",
     "icon": "https://icons.duckduckgo.com/ip3/pkg.go.dev.ico",
     "slug": "gen-cli-go-package",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 88,
-    "timeDay": 106,
-    "timeWeek": 68,
+    "time": 87,
+    "timeDay": 76,
+    "timeWeek": 65,
     "timeMonth": 63,
-    "timeYear": 88,
+    "timeYear": 87,
     "dailyMinutesDown": {
-      "2025-01-29": 0
+      "2025-01-29": 8
     }
   },
   {
