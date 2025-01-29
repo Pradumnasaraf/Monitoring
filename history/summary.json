@@ -4,9 +4,9 @@
     "url": "https://pradumnasaraf.dev",
     "icon": "https://icons.duckduckgo.com/ip3/pradumnasaraf.dev.ico",
     "slug": "personal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -16,6 +16,7 @@
     "timeMonth": 183,
     "timeYear": 171,
     "dailyMinutesDown": {
+      "2025-01-29": 0,
       "2024-10-12": 53
     }
   },
@@ -51,7 +52,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
+    "uptimeYear": "99.98%",
     "time": 224,
     "timeDay": 300,
     "timeWeek": 215,
@@ -126,18 +127,16 @@
     "slug": "candy-go-package",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 178,
     "timeDay": 149,
     "timeWeek": 163,
     "timeMonth": 166,
     "timeYear": 176,
-    "dailyMinutesDown": {
-      "2025-01-29": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "GenCLI Go Package",
@@ -146,18 +145,16 @@
     "slug": "gen-cli-go-package",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 87,
     "timeDay": 76,
     "timeWeek": 65,
     "timeMonth": 63,
     "timeYear": 87,
-    "dailyMinutesDown": {
-      "2025-01-29": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "BioLink",
