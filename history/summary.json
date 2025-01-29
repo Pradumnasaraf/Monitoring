@@ -124,10 +124,10 @@
     "url": "https://pkg.go.dev/github.com/Pradumnasaraf/candy",
     "icon": "https://icons.duckduckgo.com/ip3/pkg.go.dev.ico",
     "slug": "candy-go-package",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 178,
@@ -135,16 +135,18 @@
     "timeWeek": 169,
     "timeMonth": 167,
     "timeYear": 176,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-29": 1
+    }
   },
   {
     "name": "GenCLI Go Package",
     "url": "https://pkg.go.dev/github.com/Pradumnasaraf/gencli",
     "icon": "https://icons.duckduckgo.com/ip3/pkg.go.dev.ico",
     "slug": "gen-cli-go-package",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -153,7 +155,9 @@
     "timeWeek": 68,
     "timeMonth": 63,
     "timeYear": 88,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-29": 0
+    }
   },
   {
     "name": "BioLink",
