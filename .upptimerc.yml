@@ -2,10 +2,16 @@ owner: Pradumnasaraf
 repo: Monitoring 
 
 sites:
-  - name: Personal
+  - name: Pradumna's Website
     url: https://pradumnasaraf.dev
-  - name: Hashnode Blog
+  - name: Pradumna's Website (XYZ)
+    url: https://pradumnasaraf.xyz
+  - name: Pradumna's Newsletter
+    url: https://newsletter.pradumnasaraf.dev
+  - name: Pradumna's Blog (Hashnode)
     url: https://blog.pradumnasaraf.dev  
+  - name: Pradumna's Photography
+    url: https://camera.pradumnasaraf.dev
   - name: Open Source With Pradumna
     url: https://os.pradumnasaraf.dev
   - name: DevOps 
@@ -20,7 +26,10 @@ sites:
     url: https://pkg.go.dev/github.com/Pradumnasaraf/gencli
   - name: BioLink
     url: https://links.pradumnasaraf.dev
-    
+  - name: rebase media website
+    url: https://rebasemedia.com
+  - name: rebase media website (XYZ)
+    url: https://rebasemedia.xyz
 status-website:
   baseUrl: /Monitoring
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
