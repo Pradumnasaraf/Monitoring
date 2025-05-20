@@ -1,7 +1,7 @@
 url: https://pkg.go.dev/github.com/Pradumnasaraf/candy
-status: up
-code: 200
-responseTime: 274
-lastUpdated: 2025-05-19T23:21:44.320Z
+status: down
+code: 500
+responseTime: 215
+lastUpdated: 2025-05-20T15:15:17.709Z
 startTime: 2023-04-04T04:57:31.000Z
 generator: Upptime <https://github.com/upptime/upptime>
