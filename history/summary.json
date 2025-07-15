@@ -41,11 +41,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/newsletter.pradumnasaraf.dev.ico",
     "slug": "pradumna-s-newsletter",
     "status": "down",
-    "uptime": "95.43%",
+    "uptime": "95.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.43%",
+    "uptimeYear": "95.47%",
     "time": 209,
     "timeDay": 196,
     "timeWeek": 218,
@@ -65,11 +65,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.pradumnasaraf.dev.ico",
     "slug": "pradumna-s-blog-hashnode",
     "status": "down",
-    "uptime": "95.43%",
+    "uptime": "95.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.43%",
+    "uptimeYear": "95.47%",
     "time": 230,
     "timeDay": 119,
     "timeWeek": 150,
@@ -107,7 +107,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/os.pradumnasaraf.dev.ico",
     "slug": "open-source-with-pradumna",
     "status": "up",
-    "uptime": "99.92%",
+    "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -164,9 +164,9 @@
     "url": "https://opensourceapi.vercel.app",
     "icon": "https://icons.duckduckgo.com/ip3/opensourceapi.vercel.app.ico",
     "slug": "open-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
@@ -176,6 +176,7 @@
     "timeMonth": 1087,
     "timeYear": 1073,
     "dailyMinutesDown": {
+      "2025-07-15": 0,
       "2025-06-18": 16,
       "2024-10-22": 18
     }
@@ -247,9 +248,9 @@
     "url": "https://rebasemedia.com",
     "icon": "https://icons.duckduckgo.com/ip3/rebasemedia.com.ico",
     "slug": "rebase-media-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -258,16 +259,18 @@
     "timeWeek": 121,
     "timeMonth": 142,
     "timeYear": 138,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-15": 0
+    }
   },
   {
     "name": "rebase media website (XYZ)",
     "url": "https://rebasemedia.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/rebasemedia.xyz.ico",
     "slug": "rebase-media-website-xyz",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -276,6 +279,8 @@
     "timeWeek": 153,
     "timeMonth": 133,
     "timeYear": 116,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-15": 0
+    }
   }
 ]
