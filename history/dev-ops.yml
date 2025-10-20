@@ -1,7 +1,7 @@
 url: https://devops.pradumnasaraf.dev
-status: up
-code: 200
-responseTime: 302
-lastUpdated: 2025-10-19T23:19:44.866Z
+status: down
+code: 500
+responseTime: 3445
+lastUpdated: 2025-10-20T07:14:41.178Z
 startTime: 2024-07-25T12:12:04.619Z
 generator: Upptime <https://github.com/upptime/upptime>
