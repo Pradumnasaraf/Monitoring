@@ -4,15 +4,11 @@ repo: Monitoring
 sites:
   - name: Pradumna's Website
     url: https://pradumnasaraf.dev
-  - name: Pradumna's Website (XYZ)
-    url: https://pradumnasaraf.xyz
   - name: Pradumna's Newsletter
     url: https://newsletter.pradumnasaraf.dev
   - name: Pradumna's Blog (Hashnode)
     url: https://blog.pradumnasaraf.dev  
   - name: Pradumna's Photography
-    url: https://camera.pradumnasaraf.dev
-  - name: Open Source With Pradumna
     url: https://os.pradumnasaraf.dev
   - name: DevOps 
     url: https://devops.pradumnasaraf.dev
