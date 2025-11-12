@@ -24,8 +24,7 @@ sites:
     url: https://links.pradumnasaraf.dev
   - name: rebase media website
     url: https://rebasemedia.com
-  - name: rebase media website (XYZ)
-    url: https://rebasemedia.xyz
+    
 status-website:
   baseUrl: /Monitoring
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
