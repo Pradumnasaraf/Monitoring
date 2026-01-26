@@ -33,11 +33,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/newsletter.pradumnasaraf.dev.ico",
     "slug": "pradumna-s-newsletter",
     "status": "down",
-    "uptime": "98.60%",
+    "uptime": "98.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.60%",
+    "uptimeYear": "98.61%",
     "time": 239,
     "timeDay": 253,
     "timeWeek": 205,
@@ -247,9 +247,9 @@
     "url": "https://links.pradumnasaraf.dev",
     "icon": "https://icons.duckduckgo.com/ip3/links.pradumnasaraf.dev.ico",
     "slug": "bio-link",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
@@ -259,6 +259,7 @@
     "timeMonth": 218,
     "timeYear": 252,
     "dailyMinutesDown": {
+      "2026-01-26": 0,
       "2026-01-18": 16,
       "2025-04-20": 41
     }
