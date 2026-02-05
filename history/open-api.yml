@@ -1,7 +1,7 @@
 url: https://opensourceapi.vercel.app
-status: up
-code: 200
-responseTime: 1275
-lastUpdated: 2026-02-04T23:33:16.091Z
+status: down
+code: 403
+responseTime: 84
+lastUpdated: 2026-02-05T20:01:44.418Z
 startTime: 2022-07-01T03:56:58.000Z
 generator: Upptime <https://github.com/upptime/upptime>
