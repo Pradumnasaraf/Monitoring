@@ -31,7 +31,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v7
+        uses: actions/checkout@v6
         with:
           ref: ${{ github.head_ref || github.ref_name }}
           token: ${{ secrets.GH_PAT || github.token }}
@@ -63,7 +63,7 @@ jobs:
           token: ${{ secrets.GH_PAT || github.token }}
       - name: Setup Node.js for direct graph generation
         if: steps.dispatch_graphs.outcome == 'failure'
-        uses: actions/setup-node@v7
+        uses: actions/setup-node@v6
         with:
           node-version: "20"
       - name: Generate graphs directly if dispatch fails
