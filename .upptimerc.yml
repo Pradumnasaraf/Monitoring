@@ -4,8 +4,6 @@ repo: Monitoring
 sites:
   - name: Pradumna's Website
     url: https://pradumnasaraf.dev
-  - name: Pradumna's Newsletter
-    url: https://newsletter.pradumnasaraf.dev
   - name: Pradumna's Blog (Hashnode)
     url: https://blog.pradumnasaraf.dev  
   - name: Pradumna's Photography
